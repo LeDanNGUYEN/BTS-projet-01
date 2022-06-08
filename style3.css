@@ -149,4 +149,7 @@ li:hover ul#submenu {
     padding: 50px 50px;
 }
 
-
+.erreur{
+    color: red;
+    font: bolder;
+}
